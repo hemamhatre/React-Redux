@@ -1,5 +1,9 @@
 # React-Redux
-Best explain redux implementation and flux architecture in this project
+
+![](http://i.imgur.com/DUiL9yn.png)
+
+Best explain redux implementation and flux architecture 
+
 
 ## Getting Started
 
